@@ -1,4 +1,4 @@
-=== WP Notice Popup ===
+=== 20 de Julio Colombia ===
 Contributors: Jodacame (Jose Daniel Canchila)
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=10644953
 Tags: independencia, 20 de Julio, julio, colombia, pasion
