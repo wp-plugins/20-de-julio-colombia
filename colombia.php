@@ -3,7 +3,7 @@
 Plugin Name: 20 de Julio Colombia
 Plugin URI:  http://www.nexxuz.com/widget-wordpress-20-de-julio-dia-de-la-independencia-de-colombia.html
 Description: 20 de Julio día de la Independencia de Colombia, agrega la bandera de nuestro país.
-Version: 1.1
+Version: 1.2
 Author: Jose Daniel Canchila
 Author URI: http://nexxuz.com
 
@@ -32,7 +32,7 @@ function show_Colombia_Ind($args) {
 	$blog_url=get_bloginfo('url');
 	?>
 <div id="twitter" style="position:fixed;width:108px;height=105px;left:-5px;top:0;padding.0px;spacing:0px;opacity: 0.9;visibility:visible;z-index:99999;border:0px solid #000000">
-<?php echo '<a href="http://www.colombiaaprende.edu.co/html/home/1592/article-83837.html" target="_Blank" rel="nofollow"><img src="'.$blog_url.'/wp-content/plugins/colombia/colombia.png" title="Dia de la Independencia de Colombia"></a> '; ?> <br />
+<?php echo '<a href="http://www.colombiaaprende.edu.co/html/home/1592/article-83837.html" target="_Blank" rel="nofollow"><img src="'.$blog_url.'/wp-content/plugins/20-de-julio-colombia/colombia.png" title="Dia de la Independencia de Colombia"></a> '; ?> <br />
 <a href="www.nexxuz.com"></a>
 </div>
 <?
